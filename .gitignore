@@ -14,3 +14,6 @@ tarballs
 # Where do these files come from?  They're not readable.
 # For instance, .#Help.page
 .#*
+.stack-work/
+stack.yaml.lock
+*.swp
